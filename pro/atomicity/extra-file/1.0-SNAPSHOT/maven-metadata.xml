@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>pro.atomicity</groupId>
+  <artifactId>extra-file</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190607.175029</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190607175029</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20190607.175029-1</value>
+        <updated>20190607175029</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20190607.175029-1</value>
+        <updated>20190607175029</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
